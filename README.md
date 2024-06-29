@@ -1,11 +1,8 @@
 <div align="right">
-<a style="text-decoration: none" target="_blank"href="https://github.com/codediaz">
+<a style="text-decoration: none" target="_blank"href="https://github.com/jssanchez03">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 </a>
-<a style="text-decoration: none" target="_blank" href="https://twitter.com/codediazsergio" >
-<img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
-</a>
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
+<a style="text-decoration: none" target="_blank" href="www.linkedin.com/in/jair-sánchez" >
 <img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
 </a>
 </div>
