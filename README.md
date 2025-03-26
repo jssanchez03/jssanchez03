@@ -1,17 +1,18 @@
-<table>
+<table style="border-radius: 10px; border: 2px solid #ccc; padding: 10px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
   <tr>
-    <td>
+    <td style="padding: 15px; vertical-align: middle;">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Jair+Sánchez!;" />
       <h2>📖 About me</h2> 
-      🌐 Hi! I'm <b>Jair Sánchez</b>, an IT Engineering student passionate about technology.<br>
-      🎨 I love <b>anime, manga, fantasy stories</b>, and in my free time, I enjoy drawing and listening to music.<br>  
-      🎯 My goal is to become a <b>full-stack developer</b> and contribute to open-source projects. 
+      <p>🌐 Hi! I'm <b>Jair Sánchez</b>, an IT Engineering student passionate about technology.</p>
+      <p>🎨 I love <b>anime, manga, fantasy stories</b>, and in my free time, I enjoy drawing and listening to music.</p>  
+      <p>🎯 My goal is to become a <b>full-stack developer</b> and contribute to open-source projects.</p>
     </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="300px">
+    <td style="padding: 15px; text-align: center;">
+      <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="300px" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
+
 
 <div align="center">
   <br>
