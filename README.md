@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Jair+Sánchez!;" />
-
+<img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif">
 <h2>📖 About me</h2> 
 🌐 Hi! I'm <b>Jair Sánchez</b>, an IT Engineering student passionate about technology.<br>
 🎨 I love <b>anime, manga, fantasy stories</b>, and in my free time, I enjoy drawing and listening to music.<br>  
@@ -24,3 +24,5 @@
   <a href="http://www.linkedin.com/in/jair-s%C3%A1nchez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/issey_re"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
+
+
