@@ -4,7 +4,7 @@
   <tr>
     <td style="padding: 15px; vertical-align: middle; text-align: center;">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Jair+Sánchez!;" />
-      <h2 align="center">📖 About me</h2> 
+      <h2>📖 About me</h2> 
       <p>🌐 Hi! I'm <b>Jair Sánchez</b>, an IT Engineering student passionate about technology.</p>
       <p>🎨 I love <b>anime, manga, fantasy stories</b>, and in my free time, I enjoy drawing and listening to music.</p>  
       <p>🎯 My goal is to become a <b>full-stack developer</b> and contribute to open-source projects.</p>
