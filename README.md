@@ -3,8 +3,7 @@
 <h2>📖 About me</h2> 
 🌐 Hi! I'm <b>Jair Sánchez</b>, an IT Engineering student passionate about technology.<br>
 🎨 I love anime, manga, fantasy stories, and in my free time, I enjoy drawing and listening to music.<br>  
-💻 Currently learning React, Express, and web development for my thesis project.<br>  
-🎯 My goal is to become a <b>full-stack developer</b>b> and contribute to open-source projects. 
+🎯 My goal is to become a <b>full-stack developer</b> and contribute to open-source projects. 
 
 <div align="center">
   <br>
@@ -27,6 +26,6 @@
 
 ## 📫 Contact Me  
 <p align="center">
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jairssan03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="http://www.linkedin.com/in/jair-s%C3%A1nchez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
