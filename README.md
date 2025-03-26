@@ -1,7 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Jair+Sánchez!;" />
 
 <h2>📖 About me</h2> 
-🌐 Hi! I'm Jair, an IT Engineering student. I love technology, anime, manga, and fantasy stories. In my free time, I enjoy drawing and listening to music. 
+🌐 Hi! I'm **Jair Sánchez**, an IT Engineering student passionate about technology.  
+🎨 I love **anime, manga, fantasy stories**, and in my free time, I enjoy **drawing and listening to music**.  
+💻 Currently learning **React, Express, and web development** for my thesis project.  
+🎯 My goal is to become a **full-stack developer** and contribute to open-source projects. 
 
 <div align="center">
   <br>
