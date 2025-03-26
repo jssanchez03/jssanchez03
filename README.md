@@ -1,4 +1,4 @@
-<table style="border-radius: 10px; border: 2px solid #ccc; padding: 10px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+<table style="border-radius: 30px; border: 2px solid #ccc; padding: 10px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
   <tr>
     <td style="padding: 15px; vertical-align: middle;">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Jair+Sánchez!;" />
@@ -12,6 +12,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <div align="center">
