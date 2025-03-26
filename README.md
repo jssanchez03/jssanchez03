@@ -33,3 +33,25 @@
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
 </div>
+
+<br>
+
+<!-- Contact Me -->
+<h2 align="center">📫 Contact Me</h2>
+<table align="center">
+  <tr>
+    <td style="border-radius: 20px; border: 2px solid #ccc; padding: 20px; text-align: center; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <a href="http://www.linkedin.com/in/jair-sánchez" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50px">
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://x.com/issey_re" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter (X)" width="50px">
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.instagram.com/issey_re/?hl=es-la" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50px">
+      </a>
+    </td>
+  </tr>
+</table>
