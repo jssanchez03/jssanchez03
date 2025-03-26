@@ -40,17 +40,17 @@
 <h2 align="center">📫 Contact Me</h2>
 
   <tr>
-    <td style="border-radius: 20px; border: 2px solid #ccc; padding: 20px; text-align: center; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+   <td style="border-radius: 20px; border: 2px solid #ccc; padding: 20px; text-align: center; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
       <a href="http://www.linkedin.com/in/jair-sánchez" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150px" heigth="50px">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="70px">
       </a>
       &nbsp;&nbsp;
       <a href="https://x.com/issey_re" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)" width="150px" heigth="50px">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)" width="70px">
       </a>
       &nbsp;&nbsp;
       <a href="https://www.instagram.com/issey_re/?hl=es-la" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="150px" heigth="50px">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="70px">
       </a>
     </td>
   </tr>
