@@ -46,11 +46,11 @@
       </a>
       &nbsp;&nbsp;
       <a href="https://x.com/issey_re" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)" width="100px">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)" width="150px">
       </a>
       &nbsp;&nbsp;
       <a href="https://www.instagram.com/issey_re/?hl=es-la" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="200px">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="150px">
       </a>
     </td>
   </tr>
