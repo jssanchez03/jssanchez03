@@ -12,7 +12,7 @@
 <h2>🚀 Tech Stack</h2> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,docker,c" />
+    <img src="https://skillicons.dev/icons?i=figma,git,docker,html,css,js,jquery,ts,angular,react,flutter,flask,express,c,tailwind,bootstrap,spring,java,py,postman,php,nodejs,mysql,postgres,mongodb" />
   </a>
 </p>
 
