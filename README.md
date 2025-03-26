@@ -9,8 +9,32 @@
   <br/>
 </div>
 
+<h2>🚀 | Tech Stack</h2> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
+</p>
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## 🎯 Featured Projects  
+### 🚀 [Project Name](https://github.com/tu-usuario/proyecto)  
+🔹 Breve descripción del proyecto.  
+
+### 🚀 [Project Name](https://github.com/tu-usuario/proyecto2)  
+🔹 Breve descripción del proyecto.  
+
+---
+
+## 📫 Contact Me  
+<p align="center">
+  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
