@@ -18,13 +18,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight" width="48%"/>
-</p>
-
-## 📫 Contact Me  
+<h2>📫 Contact Me  </h2> 
 <p align="center">
   <a href="https://www.instagram.com/issey_re/?hl=es-la"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="http://www.linkedin.com/in/jair-s%C3%A1nchez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
