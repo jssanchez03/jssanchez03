@@ -2,7 +2,7 @@
 
 <h2>📖 About me</h2> 
 🌐 Hi! I'm <b>Jair Sánchez</b>, an IT Engineering student passionate about technology.<br>
-🎨 I love anime, manga, fantasy stories, and in my free time, I enjoy drawing and listening to music.<br>  
+🎨 I love <b>anime, manga, fantasy stories</b>, and in my free time, I enjoy drawing and listening to music.<br>  
 🎯 My goal is to become a <b>full-stack developer</b> and contribute to open-source projects. 
 
 <div align="center">
