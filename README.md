@@ -38,7 +38,7 @@
 
 <!-- Contact Me -->
 <h2 align="center">📫 Contact Me</h2>
-<table align="center">
+
   <tr>
     <td style="border-radius: 20px; border: 2px solid #ccc; padding: 20px; text-align: center; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
       <a href="http://www.linkedin.com/in/jair-sánchez" target="_blank">
@@ -54,4 +54,4 @@
       </a>
     </td>
   </tr>
-</table>
+
